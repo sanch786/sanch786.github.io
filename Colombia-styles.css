@@ -1,0 +1,29 @@
+a.navbar-brand img{width: 40px;}
+.carousel-inner{max-width: 40%;max-height: 40%;margin: auto; background-position: center;}
+.col-sm-6 img{max-width: 100%;max-height: 100%;}
+.col-sm-8 img{max-width: 100%;max-height: 100%;}
+.col-sm-2 img{max-width: 100%;max-height: 100%;}
+a1{font-size: 20px;padding-left: 130px;}
+a2{font-size: 20px;padding-left: 140px;}
+a3{font-size: 20px;padding-left: 130px;}
+a4{font-size: 20px;padding-left: 100px;}
+a5{font-size: 20px;padding-left: 310px;}
+a6{font-size: 20px;padding-left: 295px;}
+.spacing{
+    margin-bottom: 2%;
+}
+.jumbotron-text-alignment{
+    position: relative;
+    top: 135px;
+}
+.jumbotron {
+    /* add characteristics for the image; the 4 background ones below are typically always needed */
+    background-image: url(Project1-Images/Colombia/Colombia-landing-page.JPG);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: center;
+    height: 400px;
+    padding-top: 1%;
+    text-align: left;
+    margin-bottom: 0%;
+    /* better to do padding in % because that then fixes on devices automatically based on % instead of an absolute value */

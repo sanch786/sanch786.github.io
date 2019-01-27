@@ -1,0 +1,14 @@
+/* I am going to use this to add styles */
+body {
+    background-color: #7326bb38
+}
+h1 {
+    color: rgb(54, 18, 18);
+    font-size: 40px;
+}
+#first{
+    color: blue;
+}
+.table-1{
+        margin-right: 100px;
+}

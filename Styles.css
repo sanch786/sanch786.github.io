@@ -1,14 +1,24 @@
-/* I am going to use this to add styles */
-body {
-    background-color: #7326bb38
+a.navbar-brand img{width: 40px;}
+.col-sm-3 img{max-width: 100%;max-height: 100%;}
+.col-sm-6 img{max-width: 100%;max-height: 100%;}
+a1{font-size: 20px;padding-left: 130px;}
+a2{font-size: 20px;padding-left: 140px;}
+a3{font-size: 20px;padding-left: 130px;}
+a4{font-size: 20px;padding-left: 100px;}
+a5{font-size: 20px;padding-left: 310px;}
+a6{font-size: 20px;padding-left: 295px;}
+.jumbotron-text-alignment{
+    position: relative;
+    top: 100px;
 }
-h1 {
-    color: rgb(54, 18, 18);
-    font-size: 40px;
-}
-#first{
-    color: blue;
-}
-.table-1{
-        margin-right: 100px;
-}
+.jumbotron {
+    /* add characteristics for the image; the 4 background ones below are typically always needed */
+    background-image: url(Project1-Images/Landing\ Page\ 2.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+    height: 400px;
+    padding-top: 1%;
+    text-align: left;
+    margin-bottom: 0%;
+    /* better to do padding in % because that then fixes on devices automatically based on % instead of an absolute value */
