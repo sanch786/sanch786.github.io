@@ -26,6 +26,7 @@ h4{font-size: 30px;}
     /* add characteristics for the image; the 4 background ones below are typically always needed */
     background-image: url(Project1-Images/Colombia/Colombia-landing-page.JPG);
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: 60%;
     background-position: center;
     height: 400px;
@@ -38,6 +39,7 @@ h4{font-size: 30px;}
     /* add characteristics for the image; the 4 background ones below are typically always needed */
     background-image: url(Project1-Images/Landing\ Page\ 2.png);
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: 50%;
     background-position: center;
     height: 400px;
